@@ -27,8 +27,6 @@ Here you will find how zerologdns works.
 
 [Gunicorn](https://github.com/benoitc/gunicorn)
 
-[GoatCounter](https://github.com/arp242/goatcounter)
-
 [OpenResty](https://github.com/openresty/)
 
 [PostgreSQL](https://github.com/postgres)
