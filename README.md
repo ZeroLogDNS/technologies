@@ -1,6 +1,9 @@
 # Technologies
 Here you will find how zerologdns works.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I5BWJ0K)
+
+
 **FrontEnd:**
 
 [Alpine.js](https://alpinejs.dev/)
@@ -15,11 +18,9 @@ Here you will find how zerologdns works.
 
 [Alpine Linux](https://github.com/alpinelinux)
 
-[Bind9](https://gitlab.isc.org/isc-projects/bind9)
+[Unbound](https://github.com/NLnetLabs/unbound)
 
 [Docker](https://www.docker.com/)
-
-[Envoy](https://github.com/envoyproxy)
 
 [Flask RESTful](https://flask-restful.readthedocs.io/en/latest/)
 
