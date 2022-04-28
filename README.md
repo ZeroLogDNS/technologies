@@ -33,5 +33,3 @@ Here you will find how zerologdns works.
 [PostgreSQL](https://github.com/postgres)
 
 [Redis](https://github.com/redis)
-
-[Technitium DNS Server](https://github.com/TechnitiumSoftware)
