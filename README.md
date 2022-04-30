@@ -18,8 +18,6 @@ Here you will find how zerologdns works.
 
 [Alpine Linux](https://github.com/alpinelinux)
 
-[Unbound](https://github.com/NLnetLabs/unbound)
-
 [Docker](https://www.docker.com/)
 
 [Flask RESTful](https://flask-restful.readthedocs.io/en/latest/)
@@ -28,8 +26,14 @@ Here you will find how zerologdns works.
 
 [Gunicorn](https://github.com/benoitc/gunicorn)
 
+[HAproxy](https://github.com/haproxy/haproxy)
+
 [OpenResty](https://github.com/openresty/)
+
+[Plausible](https://github.com/plausible/)
 
 [PostgreSQL](https://github.com/postgres)
 
 [Redis](https://github.com/redis)
+
+[Unbound](https://github.com/NLnetLabs/unbound)
