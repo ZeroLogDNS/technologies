@@ -28,6 +28,8 @@ Here you will find how zerologdns works.
 
 [HAproxy](https://github.com/haproxy/haproxy)
 
+[Knot Resolver](https://www.knot-resolver.cz/)
+
 [OpenResty](https://github.com/openresty/)
 
 [Plausible](https://github.com/plausible/)
@@ -35,5 +37,3 @@ Here you will find how zerologdns works.
 [PostgreSQL](https://github.com/postgres)
 
 [Redis](https://github.com/redis)
-
-[Unbound](https://github.com/NLnetLabs/unbound)
