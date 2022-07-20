@@ -24,6 +24,8 @@ Here you will find how zerologdns works.
 
 [Flask](https://pypi.org/project/Flask/)
 
+[FreeBSD](https://www.freebsd.org/)
+
 [Gunicorn](https://github.com/benoitc/gunicorn)
 
 [HAproxy](https://github.com/haproxy/haproxy)
