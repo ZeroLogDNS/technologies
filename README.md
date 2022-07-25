@@ -20,13 +20,7 @@ Here you will find how zerologdns works.
 
 [Docker](https://www.docker.com/)
 
-[Flask RESTful](https://flask-restful.readthedocs.io/en/latest/)
-
-[Flask](https://pypi.org/project/Flask/)
-
 [FreeBSD](https://www.freebsd.org/)
-
-[Gunicorn](https://github.com/benoitc/gunicorn)
 
 [HAproxy](https://github.com/haproxy/haproxy)
 
@@ -38,4 +32,4 @@ Here you will find how zerologdns works.
 
 [PostgreSQL](https://github.com/postgres)
 
-[Redis](https://github.com/redis)
+[Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)
