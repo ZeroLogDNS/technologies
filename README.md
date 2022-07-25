@@ -28,8 +28,6 @@ Here you will find how zerologdns works.
 
 [OpenResty](https://github.com/openresty/)
 
-[Plausible](https://github.com/plausible/)
-
 [PostgreSQL](https://github.com/postgres)
 
 [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)
