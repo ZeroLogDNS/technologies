@@ -20,6 +20,8 @@ Here you will find how zerologdns works.
 
 [Docker](https://www.docker.com/)
 
+[dnsdist](https://dnsdist.org/)
+
 [FreeBSD](https://www.freebsd.org/)
 
 [HAproxy](https://github.com/haproxy/haproxy)
