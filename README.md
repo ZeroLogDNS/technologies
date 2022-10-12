@@ -41,7 +41,7 @@ Here you will find how zerologdns works.
 
 The technitium dns server is no longer in use since we dropped the Ad-Block version.
 
-If you still want to use ad-block, [pi-hole](https://pi-hole.net/) might be a good solution.
+If you still want to use ad-block, you can self-host Technitium DNS server or [pi-hole](https://pi-hole.net/) might be a good solution.
 
 Our [block lists](https://github.com/ZeroLogDNS/Blocklists) are still available but will not be updated.
 
