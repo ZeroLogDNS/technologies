@@ -22,8 +22,6 @@ Here you will find how zerologdns works.
 
 [dnsdist](https://dnsdist.org/)
 
-[FreeBSD](https://www.freebsd.org/)
-
 [HAproxy](https://github.com/haproxy/haproxy)
 
 [Knot Resolver](https://www.knot-resolver.cz/)
@@ -32,9 +30,12 @@ Here you will find how zerologdns works.
 
 [PostgreSQL](https://github.com/postgres)
 
-[Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)
+[VzLinux](https://vzlinux.org/)
 
 **Removed:**
+
+[FreeBSD](https://freebsd.org)
+
 
 [Technitium DNS Server](https://github.com/TechnitiumSoftware/DnsServer)
 
@@ -44,4 +45,8 @@ The technitium dns server is no longer in use since we dropped the Ad-Block vers
 If you still want to use ad-block, you can self-host Technitium DNS server or [pi-hole](https://pi-hole.net/) might be a good solution.
 
 Our [block lists](https://github.com/ZeroLogDNS/Blocklists) are still available but will not be updated.
+
+
+
+
 
