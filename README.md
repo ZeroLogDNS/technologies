@@ -6,8 +6,6 @@ Here you will find how zerologdns works.
 
 **FrontEnd:**
 
-[Alpine.js](https://alpinejs.dev/)
-
 [Google Fonts](https://fonts.google.com/)
 
 [jQuery](https://jquery.com/)
